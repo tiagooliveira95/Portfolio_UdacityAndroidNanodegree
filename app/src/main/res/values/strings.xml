@@ -5,7 +5,7 @@
     <string name="action_settings">Settings</string>
 
 
-    <string name="popular_movies_full_description">This app will help you find the most popular and the top rated movies available</string>
+    <string name="popular_movies_full_description">This app will help you find the most popular and the top rated movies.</string>
     <string name="baking_app_full_description">This app will help you cook delicious cakes for you your friends and family to enjoy.</string>
     <string name="build_it_bigger_full_description">Customize your Gradle build, and explore advanced topics like: app testing, configuring free vs. paid apps, and creating and integrating libraries.</string>
     <string name="material_full_description">Apply the design principles that define Android\'s visual language to your apps, using material design elements, transitions and graphics, across multiple form factors.</string>
