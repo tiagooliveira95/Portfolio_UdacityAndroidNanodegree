@@ -24,7 +24,7 @@ class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHolder> {
 
 
     private ArrayList<Item> items;
-    OnItemClickListener onItemClickListener;
+    private OnItemClickListener onItemClickListener;
     private Context context;
 
     RecyclerAdapter(Context context, ArrayList<Item> items) {
