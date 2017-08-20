@@ -1,6 +1,5 @@
 package com.smartguygoescrazy.udacity.android.portfolio;
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.support.v4.app.ActivityOptionsCompat;
